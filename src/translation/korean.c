@@ -368,7 +368,7 @@ static translation_string all_strings[] = {
     {TR_RETURN_ALL_TO_FORT, "모두"},
     {TR_HOTKEY_DUPLICATE_TITLE, "단축키가 이미 사용 중"},
     {TR_HOTKEY_DUPLICATE_MESSAGE, "해당 키 조합은 이미 다음의 행동에 할당되어 있습니다:"},
-    {TR_CONFIG_DIGIT_SEPARATOR, "Separate digits"},
+    {TR_CONFIG_DIGIT_SEPARATOR, "천 단위 자릿점 표기"},
     {TR_WARNING_SCREENSHOT_SAVED, "스크린샷이 저장되었습니다: "}, // TODO: Google translate
     {TR_OVERLAY_EFFICIENCY, "능률"},
 };
